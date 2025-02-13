@@ -1,0 +1,56 @@
+/*styles for generated snake cards*/
+.square-image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.card-shape {
+    width: auto;
+}
+
+.card-body {
+    height: auto;
+}
+
+.expanded {
+    display: block;
+}
+
+.card-text:not(.expanded) {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/*styles for cards containing snake features*/
+.feature-card {
+    border: 3px solid #ddd;
+    border-radius: 7px;
+    padding: 20px;
+    margin: auto;
+    width: fit-content; 
+}
+
+/*styles for search button*/
+.search-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#search-input {
+    padding: 5px;
+    border-radius: 15px;
+    border: 1px solid #ddd;
+    width: 230px;
+}
+
+#search-btn {
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}

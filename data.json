@@ -1,0 +1,412 @@
+{
+    "snakes": [
+        {
+            "id": "1",
+            "name": "Common Garter Snake - Thamnophis sirtalis, non-venomous",
+            "summary": "The Common Garter Snake is a slender serpent typically measuring between 18 to 26 inches in length. They are known for their distinct longitudinal stripes, ranging in color from greenish to brownish, with a lighter underside. These snakes are found in a variety of different habitats like grasslands, woodlands, and wetlands, preferring areas near water sources such as streams, ponds, or marshes. They are highly adaptable and can also thrive in urban environments, making them one of the most widespread snake species in North America. These snakes are generally non-aggressive towards humans and are not venomous. When threatened, they may release a musky odor and may bite if handled roughly, but their bites are harmless to humans and rarely break skin. They play a vital role in controlling insect and small rodent populations, making them beneficial neighbors in many ecosystems.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353911264/large.jpeg",
+            "features": {
+                "body": ["slender", "long"],
+                "head": "narrow",
+                "scales": "keeled",
+                "colors": ["brown", "black", "red", "grey", "yellow"],
+                "pattern": ["stripes", "checkered"],
+                "eyes": "round pupils",
+                "tail": "tapered",
+                "venom": "non-venomous"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Common Ribbon Snake - Thamnophis saurita, non-venomous",
+            "summary": "Often confused for garter snakes, the Common Ribbon Snake is characterized by its slender body and distinct longitudinal stripes running down its back. Typically, it has a length ranging from 20 to 30 inches. These snakes are commonly found in wetland areas, including marshes, streams, and ponds, where they can often be seen basking on rocks or vegetation near water sources. They are non-venomous and generally docile, preferring to flee when approached rather than display aggression. Ribbon snakes are generally more slender that garter snakes, have a narrower head, a white spot in front of the eye and have unpatterned lip scales. Common ribbon snakes are harmless to humans and play a vital role in controlling aquatic insect populations.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354103357/large.jpeg",
+            "features": {
+                "body": ["slender", "long"],
+                "head": "narrow",
+                "scales": "keeled",
+                "colors": ["brown", "black", "red", "grey", "yellow"],
+                "pattern": "stripes",
+                "eyes": "round pupils",
+                "tail": "tapered",
+                "venom": "non-venomous"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Common Watersnake - Nerodia sipedon, non-venomous",
+            "summary": "The Common Watersnake, often found near water bodies in North America, typically sports dark brown or grayish coloring with distinct blotches along its body, reaching lengths of up to 4 feet. Non-venomous, it relies on constriction to subdue prey, primarily feeding on fish, frogs, and small mammals. This snake species is known for its semi-aquatic lifestyle, often seen basking on rocks or swimming gracefully through streams and ponds. It inhabits a variety of freshwater ecosystems, including rivers, lakes, and marshes, playing a crucial role in maintaining ecological balance by controlling populations of aquatic prey species and serving as prey for larger predators like hawks.",
+            "url": "https://static.inaturalist.org/photos/353329573/large.jpeg",
+            "features": {
+                "body": ["slender", "long"],
+                "head": ["triangular", "flattened"],
+                "scales": "keeled",
+                "colors": ["brown", "black", "grey"],
+                "pattern": ["blotched", "checkered", "banded"],
+                "eyes": "round pupils",
+                "tail": "tapered",
+                "venom": "non-venomous"
+            }
+        },
+        {
+            "id": "4",
+            "name": "DeKay's Brownsnake - Storeria dekayi, non-venomous",
+            "summary": "DeKay's Brownsnake typically measures around 9 to 13 inches in length and displays a slender body with keeled scales. Its coloration varies from light brown to gray, often featuring darker spots or blotches along the back. These snakes are commonly found in a variety of habitats, including woodlands, grasslands, and marshy areas, preferring moist environments with ample ground cover for concealment. They are non-venomous and generally docile, rarely displaying aggression towards humans or other animals. When threatened, they may flatten their bodies and emit a musky odor as a defense mechanism. Despite their small size and harmless nature, DeKay's Brownsnakes play a crucial role in controlling insect and small rodent populations, contributing to the balance of their ecosystems.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351670120/large.jpeg",
+            "features": {
+                "body": ["slender", "short"],
+                "head": ["narrow"],
+                "scales": ["smooth"],
+                "colors": ["brown", "black"],
+                "pattern": ["solid-colored", "stripes"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+        },
+        {
+            "id": "5",
+            "name": "Eastern Hognose Snake - Heterodon platirhinos, non-venomous",
+            "summary": "The Eastern Hognose Snake, found primarily in North America, displays color patterns ranging from gray to tan, often featuring dark blotches or speckles along its body. The Eastern Hognose Snake is non-venomous, relying instead on its enlarged rear fangs to puncture prey items such as toads and frogs. Typically docile, these snakes may engage in dramatic defensive displays, flattening their necks and hissing loudly when threatened, although they rarely bite. Preferring habitats such as forests, grasslands, and sandy areas, the Eastern Hognose Snake can be found burrowing beneath leaf litter or loose soil. As an essential component of its ecosystem, the snake plays a crucial role in controlling populations of amphibians and small rodents, thus contributing to the balance of its habitat.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/347032446/large.jpg",
+            "features": {
+                "body": ["slender"],
+                "head": ["broad"],
+                "scale": ["keeled"],
+                "colors": ["brown", "gray", "light brown"],
+                "pattern": ["blotched"],
+                "eyes": ["round pupils"],
+                "tail": ["blunt"],
+                "venom": ["nonvenomous"]
+            }
+        },
+        {
+            "id": "6",
+            "name": "Eastern Milksnake - Lampropeltis triangulum, non-venomous",
+            "summary": "The Eastern Milksnake is a non-venomous snake species native to North America and boasts a vibrant pattern of black, reddish-brown, and cream-colored stripes along its body, often getting confused with the venomous coral snake. Known for its secretive nature, the milk snake tends to reside in rocky areas, woodlands, and grasslands, often seeking refuge under logs or debris. A way to tell the difference between the milk snake and its venomous counterpart, the coral snake, is to observe the pattern of its colors. If the pattern is such that there are black stripes bordering every red stripe, it is a non-venomous milk snake, but if there are yellow stripes bordering every red stripe, it is a venomous coral snake. Regardless, both species play a crucial role in their ecosystem by keeping rodent populations in check.",
+            "url": "https://static.inaturalist.org/photos/343373080/large.jpeg",
+            "features": {
+                "body": ["slender"],
+                "head": ["broad"],
+                "scales": ["smooth"],
+                "colors": ["red", "black", "yellow", "brown", "light brown"],
+                "pattern": ["blotched", "spotted"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+        },
+        {
+            "id": "7",
+            "name": "Gopher Snake - Pituophis catenifer, non-venomous",
+            "summary": "The Gopher Snake typically exhibits a tan to yellowish-brown coloration with dark brown or black blotches running down its body, resembling the pattern of a gopher. Non-venomous in nature, this species relies on constriction to subdue its prey. Gopher Snakes are known for their docile demeanor and are often found basking in sunlight or burrowing in sandy soils. Gopher snakes are typically active during daylight and until dusk, inhabiting a diverse range of environments including grasslands, deserts, and forests. Crucial to their ecosystem, Gopher Snakes help control rodent populations and contribute to the balance of their respective habitats.",
+            "url": "https://www.iowaherps.com/content/media/101-pituophis_catenifer_sayi.jpg",
+            "features": {
+                "body": ["thick", "long"],
+                "head": ["narrow"],
+                "scales": ["keeled"],
+                "colors": ["red", "black", "brown", "light brown", "white", "grey"],
+                "pattern": ["stripes", "banded", "spotted", "blotched"],
+                "eye": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+        },
+        {
+            "id": "8",
+            "name": "Graham's Crayfish Snake - Regina grahamii, non-venomous",
+            "summary": "Graham's Crayfish Snake is a non-venomous snake native to the southeastern United States. It typically displays a dark brown to black coloration with light, often orange or yellow, bands along the lower sides of its body and underside. This species is known for its semi-aquatic lifestyle, typically found near bodies of water such as streams, swamps, and wetlands, where it preys on crayfish, amphibians, and small fish. Graham's Crayfish Snake plays a crucial role in its ecosystem by helping to regulate populations of its prey species, contributing to the overall balance and health of aquatic habitats.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/330850314/large.jpg",
+            "features": {
+                "body": ["slender", "short"],
+                "head": ["narrow"],
+                "scales": ["smooth"],
+                "colors": ["brown", "yellow", "light brown", "white"],
+                "pattern": ["stripes", "spotted"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+        },
+        {
+            "id": "9",
+            "name": "Lined Snake - Tropidoclonion lineatum, non-venomous",
+            "summary": "The Lined Snake is a non-venomous species of snake found in North America. Typically measuring between 12 to 18 inches in length, it showcases distinct longitudinal stripes along its slender body, often with a dark dorsal stripe bordered by lighter lateral stripes. Known for its docile demeanor and secretive nature, the Lined Snake is primarily nocturnal, preferring to reside in moist environments such as woodlands, grasslands, and marshy areas. Despite its small size and harmless nature, the Lined Snake plays a crucial role in its ecosystem by controlling insect populations, contributing to the overall balance of its habitat.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338503202/large.jpg",
+            "features": {
+                "body": ["slender", "long"],
+                "head": ["narrow", "triangular"],
+                "scales": ["smooth"],
+                "colors": ["brown", "light brown", "white", "grey"],
+                "pattern": ["stripes"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+        },
+        {
+            "id": "10",
+            "name": "Massasauga Rattlesnake - Sistrurus catenatus, venomous",
+            "summary": "The Massasauga rattlesnake, native to North America, typically showcases a distinct grey or light brown coloration with dark blotches along its body, reaching lengths of up to 30-75 centimeters. This species is venomous, possessing a potent hemotoxic venom primarily used for subduing prey. Known for its shy and reclusive nature, the Massasauga rattlesnake tends to avoid confrontation with humans and will often retreat when encountered. It primarily hunts small mammals, utilizing ambush tactics to capture its prey. Found in wetlands, marshes, and grasslands across its range, the Massasauga rattlesnake plays a crucial role in maintaining ecological balance by controlling rodent populations and serving as an indicator of ecosystem health.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/337165779/large.jpg",
+            "features": {
+                "body": ["thick", "long"],
+                "head": ["broad", "triangular"],
+                "scales": ["keeled"],
+                "colors": ["grey", "brown"],
+                "pattern": ["banded"],
+                "eyes": ["round pupils"],
+                "tail": ["rattle"],
+                "venom": ["venomous"]
+            }
+
+        },
+        {
+            "id": "11",
+            "name": "North American Racer - Coluber constrictor, non-venomous",
+            "summary": "The North American Racer is characterized by its slender build and smooth scales, typically ranging from three to six feet in length. It has a glossy appearance and typically displays distinct racing stripes along its body. Non-venomous by nature, this snake relies on its speed and agility to catch prey, primarily small mammals and birds. This snake is commonly found in a variety of habitats including grasslands, forests, and open fields, and thrives in diverse ecosystems throughout the continent. As an integral part of its ecosystem, this species helps regulate populations of rodents and other small prey.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/351134757/large.jpeg",
+            "features": {
+                "body": ["slender", "long"],
+                "head": ["broad"],
+                "scales": ["smooth"],
+                "colors": ["brown", "black"],
+                "pattern": ["stripes"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+
+        },
+        {
+            "id": "12",
+            "name": "Plain-bellied Watersnake - Nerodia erythrogaster, non-venomous",
+            "summary": "The Plain-bellied Watersnake, scientifically known as Nerodia erythrogaster, is a non-venomous snake found in various aquatic habitats across North America. It typically displays a plain olive to brownish coloration with faint dark markings along its body, often resembling bands or blotches. Known for its semi-aquatic lifestyle, it is often found near water sources such as rivers, streams, and ponds, where it hunts for fish, amphibians, and other small prey. Its presence in the ecosystem helps regulate prey populations, contributing to the balance of aquatic ecosystems and serving as a vital component of local food webs.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/352456321/large.jpg",
+            "features": {
+                "body": ["thick", "long"],
+                "head": ["broad"],
+                "scales": ["keeled"],
+                "colors": ["brown", "light brown"],
+                "pattern": ["stripes", "banded"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+
+        },
+        {
+            "id": "13",
+            "name": "Prairie Kingsnake - Lampropeltis calligaster, non-venomous",
+            "summary": "The Prairie Kingsnake, a non-venomous species native to North America, usually displays a distinctive pattern of alternating light and dark bands along its body with an average length ranging from 3 to 4 feet. Known for its docile nature, the Prairie Kingsnake is primarily active during the warmer months, often seeking shelter in burrows or under rocks during cooler periods. It preys on small mammals, birds, and reptiles, contributing to the regulation of local rodent populations. Found in grasslands, prairies, and agricultural fields across its range, the Prairie Kingsnake plays a crucial role in maintaining ecological balance by controlling pest populations, benefiting local ecosystems and agricultural communities alike.",
+            "url": "https://static.inaturalist.org/photos/339011416/large.jpeg",
+            "features": {
+                "body": ["thick"],
+                "head": ["broad"],
+                "scales": ["smooth"],
+                "colors": ["red", "black", "yellow", "brown", "light brown"],
+                "pattern": ["stripes", "banded", "blotched"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+
+        },
+        {
+            "id": "14",
+            "name": "Prairie Rattlesnake - Crotalus viridis, venomous",
+            "summary": "The Prairie Rattlesnake is a venomous species found primarily in the grasslands of North America. Recognizable by its distinctive triangular head and rattling tail, it typically showcases a combination of light brown or gray hues with dark blotches along its body and can grow to lengths up to 4 feet. Preferring to bask in the sun during the day and hunt for small mammals like rodents and birds at night, this species tends to be solitary and only gathers during mating season. It inhabits a variety of environments, including prairies, grasslands, and rocky outcrops across its range. Despite its often-feared reputation, the Prairie Rattlesnake plays a crucial role in maintaining ecological balance by controlling rodent populations.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/348955020/large.jpeg",
+            "features": {
+                "body": ["thick"],
+                "head": ["broad", "triangular"],
+                "scales": ["keeled"],
+                "colors": ["brown", "light brown"],
+                "pattern": ["stripes", "banded", "spotted", "blotched"],
+                "eyes": ["round pupils"],
+                "tail": ["rattle"],
+                "venom": ["venomous"]
+            }
+
+
+        },
+        {
+            "id": "15",
+            "name": "Red-bellied Snake - Storeria occipitomaculata, non-venomous",
+            "summary": "The Red-bellied Snake is a small non-venomous snake native to North America. It typically measures around 10 to 16 inches in length and is characterized by its brownish-gray coloration with distinct red or pink underside and dark spots along its back. These snakes are primarily nocturnal and secretive, often found in wooded areas, gardens, and damp habitats, where they feed on small invertebrates like slugs and earthworms. They are known for their docile nature and may release a foul-smelling musk when threatened as a defense mechanism. Red-bellied Snakes play a crucial role in their habitat by controlling populations of pests like slugs and snails and their presence signifies a healthy ecosystem.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/342299695/large.jpg",
+            "features": {
+                "body": ["slender"],
+                "head": ["narrow"],
+                "scales": ["smooth"],
+                "colors": ["red", "brown", "light brown"],
+                "pattern": ["stripes", "blotched"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+
+        },
+        {
+            "id": "16",
+            "name": "Ring-necked Snake - Diadophis punctatus, non-venomous",
+            "summary": "The Ring-necked Snake is a slender reptile typically measuring around 10 to 15 inches in length and characterized by its glossy black or dark gray body with a distinct yellow or orange ring around its neck. Despite its vivid appearance, this snake is non-venomous, relying on its mimicry and defensive tactics to deter predators. Known for its secretive nature, the Ring-necked Snake is primarily nocturnal, spending its days hidden beneath rocks, logs, or leaf litter, and is often found in forested areas with ample ground cover and moisture. As an integral part of its habitat, this species helps control populations of small mammals and insects, contributing to the balance of local ecosystems.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/346475788/large.jpeg",
+            "features": {
+                "body": ["slender"],
+                "head": ["narrow"],
+                "scales": ["smooth"],
+                "colors": ["black", "yellow", "red", "gray"],
+                "pattern": ["stripes", "spotted"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+
+        },
+        {
+            "id": "17",
+            "name": "Smooth Earthsnake - Virginia valeriae, non-venomous",
+            "summary": "The Smooth Earthsnake is a small, non-venomous snake found across the southeastern United States. It typically measures around 12 to 18 inches in length, with a glossy appearance, ranging from light brown to gray, adorned with subtle dark markings along its body. Known for its docile nature and preference for burrowing underground, this species is often observed hiding beneath leaf litter or in loose soil. Found in a variety of habitats including forests, grasslands, and even suburban areas, the Smooth Earthsnake plays a crucial role in its ecosystem by helping control populations of insects and small rodents.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354294011/large.jpeg",
+            "features": {
+                "body": ["slender"],
+                "head": ["narrow"],
+                "scales": ["smooth"],
+                "colors": ["gray", "brown"],
+                "pattern": ["solid-colored"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+
+        },
+        {
+            "id": "18",
+            "name": "Smooth Greensnake - Opheodrys vernalis, non-venomous",
+            "summary": "The Smooth Greensnake is a slender, non-venomous serpent characterized by its vibrant green coloration and lack of distinct patterns along its body and is typically 14 to 20 inches in length. This species is not harmful to humans and primarily feeds on insects, making it an essential component of its ecosystem's pest control. Typically docile in nature, Smooth Greensnakes are often found basking in the sunlight or hunting prey in grassy habitats, such as meadows, marshes, and forest edges, contributing to the balance of their respective ecosystems. As an indicator species, their presence or absence can reflect the health of their environment, highlighting their importance in ecological monitoring and conservation efforts.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/325859435/large.jpg",
+            "features": {
+                "body": ["slender"],
+                "head": ["narrow"],
+                "scales": ["smooth"],
+                "colors": ["green"],
+                "pattern": ["solid-colored"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+
+        },
+        {
+            "id": "19",
+            "name": "Speckled Kingsnake - Lampropeltis holbrooki, non-venomous",
+            "summary": "The Speckled Kingsnake showcases a striking appearance with its glossy black scales adorned with white or yellow speckles, typically reaching lengths of 3 to 4 feet. Non-venomous in nature, this snake relies on constriction to subdue its prey, primarily feeding on rodents and small reptiles. Typically docile, the Speckled Kingsnake tends to be more active during the night, often seeking refuge in underground burrows or dense vegetation during the day. Found across a variety of habitats including forests, grasslands, and swamps, this species plays a crucial role in controlling rodent populations, thus contributing significantly to ecosystem balance and biodiversity.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338591475/large.jpg",
+            "features": {
+                "body": ["thick"],
+                "head": ["broad"],
+                "scales": ["smooth"],
+                "colors": ["black", "yellow"],
+                "pattern": ["banded"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+
+        },
+        {
+            "id": "20",
+            "name": "Timber Rattlesnake - Crotalus horridus, venomous",
+            "summary": "The Timber Rattlesnake, native to eastern North America, is characterized by its distinctive pattern of dark brown or black bands against a lighter background, reaching lengths of up to 5 feet. As a venomous species, it possesses potent venom used primarily for hunting prey and self-defense. Known for its solitary nature and preference for forested habitats, the Timber Rattlesnake typically hunts at night and hibernates during colder months. It inhabits a variety of forest ecosystems, including deciduous and mixed forests, where it plays a crucial role in controlling rodent populations, thus contributing to ecosystem balance and biodiversity.",
+            "url": "https://cdn.britannica.com/18/252618-050-D9E070E2/Timber-rattlesnake-crotalus-horridus-Pennsylvania-United-States.jpg",
+            "features": {
+                "body": ["thick"],
+                "head": ["broad"],
+                "scales": ["keeled"],
+                "colors": ["black", "yellow", "brown"],
+                "pattern": ["banded"],
+                "eyes": ["slit pupils"],
+                "tail": ["rattle"],
+                "venom": ["venomous"]
+            }
+
+        },
+        {
+            "id": "21",
+            "name": "Western Foxsnake - Pantherophis ramspotti, non-venomous",
+            "summary": "The Western Foxsnake, native to North America, typically showcases a tan to light brown body with dark brown blotches along its length, reaching lengths of up to 4 feet. This species is non-venomous and poses no threat to humans, relying on constriction to subdue prey. The Western Foxsnake is typically docile in nature and, like most snakes, has a tendency to flee when approached. This snake is often found in grasslands, marshes, and wooded areas. As a predator of rodents, it plays a crucial role in controlling populations of pests, thereby contributing to ecosystem balance and agricultural protection.",
+            "url": "https://www.iowaherps.com/content/media/143-pantherophis_vulpinus.jpg",
+            "features": {
+                "body": ["thick"],
+                "head": ["broad"],
+                "scales": ["smooth"],
+                "colors": ["yellow", "brown"],
+                "pattern": ["banded", "blotched"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+        },
+        {
+            "id": "22",
+            "name": "Western Ribbon Snake - Thamnophis proximus, non-venomous",
+            "summary": "Often confused with garter snakes, the Western Ribbon Snake is characterized by its slender body and distinct longitudinal stripes running down its back. Typically, it has a length ranging from 20 to 30 inches. These snakes are commonly found in wetland areas, including marshes, streams, and ponds, where they can often be seen basking on rocks or vegetation near water sources. They are non-venomous and generally docile, preferring to flee when approached rather than display aggression. Ribbon snakes are generally more slender that garter snakes, have a narrower head, a white spot in front of the eye and have unpatterned lip scales. Common ribbon snakes are harmless to humans and play a vital role in controlling aquatic insect populations.",
+            "url": "https://static.inaturalist.org/photos/353689305/large.jpeg",
+            "features": {
+                "body": ["slender"],
+                "head": ["narrow"],
+                "scales": ["keeled"],
+                "colors": ["brown", "black", "white", "yellow"],
+                "pattern": ["stripes"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+        },
+        {
+            "id": "23",
+            "name": "Western Ratsnake - Pantherophis obsoletus, non-venomous",
+            "summary": "The Western Ratsnake is a non-venomous reptile found predominantly in North America. It typically showcases a distinctive pattern of dark blotches against a lighter background, with adults often reaching lengths exceeding six feet. In terms of behavior, Western Ratsnakes are proficient climbers and skilled hunters, preying on small rodents and occasionally birds. Despite their intimidating appearance, they pose no threat to humans as they lack venom and typically exhibit a docile demeanor when encountered. These snakes inhabit a variety of environments including forests, grasslands, and rocky outcrops, where they serve as important predators in controlling rodent populations.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/355078325/large.jpeg",
+            "features": {
+                "body": ["slender", "thick"],
+                "head": ["narrow", "broad"],
+                "scales": ["smooth", "keeled"],
+                "colors": ["black", "brown", "yellow"],
+                "pattern": ["stripes", "banded"],
+                "eyes": ["round pupils"],
+                "tail": ["tapered"],
+                "venom": ["nonvenomous"]
+            }
+
+        },
+        {
+            "id": "24",
+            "name": "Plains Hognose Snake - Heterodon nasicus, non-venomous",
+            "summary": "The Plains Hognose Snake, found primarily in North America, displays color patterns ranging from gray to tan, often featuring dark blotches or speckles along its body. The Eastern Hognose Snake is non-venomous, relying instead on its enlarged rear fangs to puncture prey items such as toads and frogs. Typically docile, these snakes may engage in dramatic defensive displays, flattening their necks and hissing loudly when threatened, although they rarely bite. Preferring habitats such as grasslands, prairies, and open woodlands, the Eastern Hognose Snake is an essential component of its ecosystem and plays a crucial role in controlling populations of amphibians and small rodents.",
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/349961488/large.jpeg",
+            "features": {
+                "body": ["thick"],
+                "head": ["broad"],
+                "scales": ["keeled"],
+                "colors": ["red", "brown", "grey"],
+                "pattern": ["solid-colored"],
+                "eyes": ["round pupils"],
+                "tail": ["blunt"],
+                "venom": ["nonvenomous"]
+            }
+
+        }
+    ]
+}
